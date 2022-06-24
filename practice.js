@@ -27,3 +27,7 @@ message = getmessage()
 
 console.log(message)
 // confirm()
+
+var fruits = ["banana", "orange", "apple", "mango", "kiwi"]
+fruits[0] = "lemon"
+console.log(fruits)
